@@ -1,1 +1,45 @@
+* {
+    font-family: Arial,Helvetica,sans-serif;
+    font-weight: bold;
+}
 
+.header__logo {
+    display: flex;
+    align-items: center;
+}
+
+.header__img {
+    width: 100px;
+}
+
+.header__slogan {
+    margin: 0px;
+}
+
+.nav__list {
+    margin: 0;
+    padding: 0;
+}
+
+.nav__item {
+    list-style: none;
+    display: inline;
+    padding: 6px;
+}
+
+nav {
+    display: flex;
+    padding-bottom:px;
+    justify-content: flex-end;
+}
+
+
+.nav__link {
+    text-decoration: none;
+}
+
+.nav__icon {
+    border: 3px;
+    border-color: gray;
+
+}
